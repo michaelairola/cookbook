@@ -1,5 +1,5 @@
 {% if page.recipe.parts %}
-	{% for ingredient in page.recipe.ingredients %}
+	{% for ingredient in page.recipe.parts %}
 	  <p><strong>{{ ingredient.name }}</strong></p>
 	  <ul>
 	  	{% for ing in ingredient.ingredients %}

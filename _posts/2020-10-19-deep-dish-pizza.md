@@ -3,9 +3,9 @@ date: 2020-10-19
 title: Deep Dish Pizza
 categories:
   - Pizza
-featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+featured_image: /images/deep-dish-pizza.jpeg
 recipe:
-  servings: 2 9-inch deep dish pizzas
+  servings: 1 12-inch deep dish pizza
   prep: 4 hours
   cook: 30 minutes
   parts:
@@ -56,8 +56,19 @@ recipe:
         - i: vegetables
           notes: mushrooms, sliced green peppers, onions
   directions:
-    - |- 
-      Please use my step-by-step photos below this written out recipe as a guide to making the pizza. For best results and ease of mind, read through the recipe completely before beginning. **You will need two deep dish 9×2 inch round cake pans** if you are making both pizzas at the same time. You can also use 9 inch springform pans.
     - |-
-      **For the crust**: Combine the flour, cornmeal, salt, sugar, and yeast in the bowl of your stand mixer fitted with a dough hook attachment. If you do not have a stand mixer, use your hand mixer and a very very large bowl. If you do not have any mixer, you will do this all by hand. Again, use a very large bowl. Give those ingredients a quick toss with your mixer on low or with a large wooden spoon. Add the warm water and 1/4 cup of melted butter. The warm water should be around 90°F (32°C). Make sure it is not very, very hot or it will kill the yeast. Likewise, make sure the butter isn’t boiling hot. If you melt it in the microwave, let it sit for 5 minutes before adding. On low speed, beat (or stir) the dough ingredients until everything begins to be moistened. Continuing on low speed (or remove from the bowl and knead by hand if you do not own a mixer), beat the dough until it is soft and supple and gently pulls away from the sides of the bowl and falls off of the dough hook- about 4-5 minutes. If the dough is too hard (it will be textured from the cornmeal), but if it feels too tough, beat in 1 teaspoon of warm water. Alternatively, if it feels too soft, beat in 1 Tablespoon of flour.
+      **For the crust**: Combine the flour, cornmeal, salt, sugar, and yeast in a bowl. Give those ingredients a quick toss with a large wooden spoon. Add the warm water and 1/4 cup of melted butter. Make sure neither is too hot (ideally **90 degrees F**). On low speed, beat (or stir) the dough ingredients until everything begins to be moistened. remove from the bowl and knead by hand, beat the dough until it is soft and supple and gently pulls away from the sides of the bowl and falls off of the dough hook- about 4-5 minutes. If the dough is too hard (it will be textured from the cornmeal), but if it feels too tough, beat in 1 teaspoon of warm water. Alternatively, if it feels too soft, beat in 1 Tablespoon of flour.
+    - |-
+      Remove dough from bowl and form into a ball. Lightly grease a large mixing bowl with olive oil and place dough inside. Coat the dough in oil. Cover bowl tigltly with aluminum foil and allow to rise in a warm environment (1-2 hours or double in size). Preheat oven to 250F. Once there, turn oven off. Place bowl inside, close oven.
+    - |-
+      Once dough is ready, lightly flour a large work surface. Remove dough from the bowl, set the bowl and aluminum foil aside. Gently punch down the dough to remove and air bubles and roll the dough in a large rectangle. Spread 1/4 cup softened butter on top of the dough. Roll it up lengthwise and then into a ball, place in greased bowl. Cover with aluminum foil and allow to rise in fridge for 1 hour or until they are puffy as you make the sauce.
+    - |-
+      **For the sauce:** Place butter in saucepan and allow melt. Add grated onion, salt, oregano, red pepper flakes. After 5 minutes, add garlic, tomatoes, sugar. Turn head down to low-medium and allo to simmer until it's hearty, gragrand and thick - about 30 minutes.
+    - |-
+      **Assemble the pizza:** After the dough balls have risen, Roll it out on a lightly floured work surface into a circle. Fit to pan, make sure it is nice and tight-fitting. Trim excess dough. Brush top edges of dough with olive oil. Fill pizza with cheese, then toppings, then sauce. Sprinkle with parmesan cheese.
+    - |-
+      Place pan on top of large baking sheet. Bake for 20-28 minutes at **450F**.
+    - |- 
+      Profit. 
 ---
+From dough to pan, the whole #!
