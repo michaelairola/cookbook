@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Mike's cookbook
+url: "https://cookbook.michaelairola.com"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -16,14 +16,14 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Mike's cookbook
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://github.com/michaelairola/cookbook
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Etc/PST
 
 paginate: 10
 paginate_path: "/:num/"

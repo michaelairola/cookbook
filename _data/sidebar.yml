@@ -1,6 +1,10 @@
-author_image: /images/author.jpg
-description_markdown: "My name is **Jane Doe**, I like baking and eating sweet things."
-facebook: CloudCannon
-twitter: CloudCannon
-pinterest: pinterest
-instagram: baking
+author_image: /images/author.png
+description_markdown: "My name is **Michael Airola**, I like cooking. These are the recipes I have tried!"
+facebook: michaelairola.1
+twitter: magicmikeairola
+linkedin  : michael-airola-122702162 # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+github    : michaelairola # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+blog : blog.michaelairola.com
+resume: michaelairola.com
+# pinterest: pinterest
+# instagram: baking
