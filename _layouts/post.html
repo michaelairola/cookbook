@@ -20,12 +20,12 @@ layout: default
 	<div class="recipe-contents">
 		<div class="ingredients">
 			<h2>Ingredients</h2>
-			{{ page.recipe.ingredients_markdown | markdownify }}
+			{% include ingredients.html %}
 		</div>
 
 		<div class="directions">
 			<h2>Directions</h2>
-			{{ page.recipe.directions_markdown | markdownify }}
+			{% include directions.html %}
 		</div>
 	</div>
 

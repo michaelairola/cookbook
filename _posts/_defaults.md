@@ -7,6 +7,7 @@ recipe:
   servings:
   prep:
   cook:
+  ingredients:
   ingredients_markdown:
   directions_markdown:
 ---

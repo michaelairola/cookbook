@@ -1,0 +1,20 @@
+{% if page.recipe.parts %}
+	{% for ingredient in page.recipe.ingredients %}
+	  <p><strong>{{ ingredient.name }}</strong></p>
+	  <ul>
+	  	{% for ing in ingredient.ingredients %}
+	  		<li>
+	  			{% if ing.q && ing.q != "" %}{{ ing.q }} {% endif %}{{ ing.i }}{% if ing.notes && ing.notes != "" %} {{ int.notes }}{% endif %}
+	  		</li>
+	  	{% endfor %}
+	  </ul>
+	{% endfor %}
+{% else %}
+	  <ul>
+	  	{% for ing in ingredient.ingredients %}
+	  		<li>
+	  			{% if ing.q && ing.q != "" %}{{ ing.q }} {% endif %}{{ ing.i }}{% if ing.notes && ing.notes != "" %} {{ int.notes }}{% endif %}
+	  		</li>
+	  	{% endfor %}
+	  </ul>	
+{% endif %}

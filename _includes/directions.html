@@ -1,0 +1,5 @@
+<ol>	
+{% for dir in page.recipe.directions %}
+<li>{{ dir | markdownify }}</li>
+{% endfor %}
+</ol>
