@@ -1,11 +1,11 @@
 ---
 date: 2020-10-19
-title: Deep Dish Pizza
+title: Cast Iron Skillet Deep Dish Pizza
 categories:
   - Pizza
 featured_image: /images/deep-dish-pizza.jpeg
 recipe:
-  servings: 1 12-inch deep dish pizza
+  servings: 1 12-inch cast iron skillet of deep dish pizza
   prep: 4 hours
   cook: 30 minutes
   parts:
@@ -51,23 +51,23 @@ recipe:
       ingredients:
         - i: mozarella cheese
         - i: parmesan cheese
-        - i: meat
-          notes: sausage, peperoni
-        - i: vegetables
-          notes: mushrooms, sliced green peppers, onions
+        - i: sausage & pepperoni
+          <!-- notes: sausage, peperoni -->
+        - i: mushrooms, sliced green peppers, onions
+          <!-- notes: mushrooms, sliced green peppers, onions -->
   directions:
     - |-
-      **For the crust**: Combine the flour, cornmeal, salt, sugar, and yeast in a bowl. Give those ingredients a quick toss with a large wooden spoon. Add the warm water and 1/4 cup of melted butter. Make sure neither is too hot (ideally **90 degrees F**). On low speed, beat (or stir) the dough ingredients until everything begins to be moistened. remove from the bowl and knead by hand, beat the dough until it is soft and supple and gently pulls away from the sides of the bowl and falls off of the dough hook- about 4-5 minutes. If the dough is too hard (it will be textured from the cornmeal), but if it feels too tough, beat in 1 teaspoon of warm water. Alternatively, if it feels too soft, beat in 1 Tablespoon of flour.
+      **For the crust**: Combine the flour, cornmeal, salt, sugar, and yeast in a bowl. Give those ingredients a quick toss with a large wooden spoon. Add the warm water and 1/4 cup of melted butter. Make sure neither is too hot (ideally **90 degrees F**). On low speed, beat (or stir) the dough ingredients until everything begins to be moistened. remove from the bowl and knead by hand, beat the dough until it is soft- about 4-5 minutes. If the dough is too hard, beat in 1 teaspoon of warm water. Alternatively, if it feels too soft, beat in 1 Tablespoon of flour.
     - |-
-      Remove dough from bowl and form into a ball. Lightly grease a large mixing bowl with olive oil and place dough inside. Coat the dough in oil. Cover bowl tightly with aluminum foil and allow to rise in a warm environment (1-2 hours or double in size). Preheat oven to 250F. Once there, turn oven off. Place bowl inside, close oven.
+      Form dough into a ball. Coat the dough with olive oil (i.e. cover bowl with grease and roll the dough around in it). Cover dough with aluminum foil. Preheat oven to 250F. Once there, turn off oven and place bowl inside. Allow yeast to rise for 1-2 hours or when it doubles in size.
     - |-
-      Once dough is ready, lightly flour a large work surface. Remove dough from the bowl, set the bowl and aluminum foil aside. Gently punch down the dough to remove and air bubles and roll the dough in a large rectangle. Spread 1/4 cup softened butter on top of the dough. Roll it up lengthwise and then into a ball, place in greased bowl. Cover with aluminum foil and allow to rise in fridge for 1 hour or until they are puffy as you make the sauce.
+      Once ready, lightly flour a large work surface. Remove dought from foil, and gently punch down the dough to remove air bubles and roll the dough in a large rectangle. Spread rest of butter on top of the dough. Roll it up lengthwise and then into a ball, coat with oil again. Cover with aluminum foil and place in fridge. Allow yeast to rise for 1 hour or until you make the sauce.
     - |-
-      **For the sauce:** Place butter in saucepan and allow melt. Add grated onion, salt, oregano, red pepper flakes. After 5 minutes, add garlic, tomatoes, sugar. Turn head down to low-medium and allo to simmer until it's hearty, gragrand and thick - about 30 minutes.
+      **For the sauce:** Place butter in saucepan and allow it to melt. Add grated onion, salt, oregano, red pepper flakes. After 5 minutes, add garlic, tomatoes, sugar. Turn head down to low-medium and allow to simmer until it's thicc - about 30 minutes.
     - |-
-      **Assemble the pizza:** After the dough balls have risen, Roll it out on a lightly floured work surface into a circle. Fit to pan, make sure it is nice and tight-fitting. Trim excess dough. Brush top edges of dough with olive oil. Fill pizza with cheese, then toppings, then sauce. Sprinkle with parmesan cheese.
+      **Assemble the pizza:** Roll dough out on a lightly floured work surface into a circle. Fit to pan, make sure it is nice and tight-fitting. Trim excess dough. Brush top edges of dough with olive oil. Fill pizza with cheese, then toppings, then sauce. Sprinkle with parmesan cheese.
     - |-
-      Place pan on top of large baking sheet. Bake for 20-28 minutes at **450F**.
+      Bake for 20-28 minutes at **450F**.
     - |- 
       Profit. 
 ---
