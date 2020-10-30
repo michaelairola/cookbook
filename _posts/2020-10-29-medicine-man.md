@@ -5,7 +5,7 @@ categories:
   - Drinks
   - Cocktails
   - Tequila
-<!-- featured_image: /images/deep-dish-pizza.jpeg -->
+featured_image: /images/medicine-man.jpg
 recipe:
   servings: 
   cook: 5 minutes
