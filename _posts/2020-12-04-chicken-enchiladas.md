@@ -17,15 +17,6 @@ recipe:
           q: 2 tablespoons
         - i: enchilada sauce
           q: 28 oz. (1 can)
-        - i: 
-          q: 1 Tablespoon
-        - i: Red Star Platinum yeast
-          q: 2 and 1/4 teaspoons
-        - i: slightly warm water
-          q: 1 and 1/4 cups
-        - i: butter
-          q: 1/2 cup
-          notes: 1/4 melted, 1/4 softened
         - i: chicken broth
           q: 2 cups
         - i: salt
@@ -58,7 +49,7 @@ recipe:
     - |-
       **For the sauce**: In saucepan over medium-low heat, combine canola oil and flour. whisk together and allow to bubble for 1 minute. Pour in the red sauce, chicken broth, salt, and pepper. Bring to boil. Reduce heat and simmer while you prepare the other ingredients.
     - |-
-      **For the meat**: While suacue is simmering, brown the chicken with the onions in a large skillet over medium-high heat. Add the salt, stir to combine. Turn off the heat and set aside.
+      **For the meat**: While sauce is simmering, brown the chicken with the onions in a large skillet over medium-high heat. Add the salt, stir to combine. Turn off the heat and set aside.
     - |-
       **Rest**: Lightly fry the tortillas over canola oil until soft (Do not crisp). Drain on a paper towel-lined plate. Preheat oven to 350 degrees F.
     - |- 
