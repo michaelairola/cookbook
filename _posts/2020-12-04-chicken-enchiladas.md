@@ -3,7 +3,7 @@ date: 2020-12-04
 title: Chicken Enchiladas
 categories:
   - enchiladas
-featured_image: /images/chicken-enchiladas.jpeg
+featured_image: /images/chicken-enchiladas.jpg
 recipe:
   servings: 8
   prep: 30 minutes
