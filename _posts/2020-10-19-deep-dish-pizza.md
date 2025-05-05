@@ -2,7 +2,7 @@
 date: 2020-10-19
 title: Cast Iron Skillet Deep Dish Pizza
 categories:
-  - Pizza
+  - Dinner
 featured_image: /images/deep-dish-pizza.jpeg
 recipe:
   servings: 1 12-inch cast iron skillet of deep dish pizza

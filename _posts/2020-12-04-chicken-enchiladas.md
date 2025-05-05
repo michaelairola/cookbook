@@ -2,7 +2,7 @@
 date: 2020-12-04
 title: Chicken Enchiladas
 categories:
-  - enchiladas
+  - Dinner
 featured_image: /images/chicken-enchiladas.jpg
 recipe:
   servings: 8

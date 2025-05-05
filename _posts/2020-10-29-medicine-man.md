@@ -3,8 +3,6 @@ date: 2020-10-29
 title: Medicine Man (Tequila substitute)
 categories:
   - Drinks
-  - Cocktails
-  - Tequila
 featured_image: /images/medicine-man.jpg
 recipe:
   servings: 
