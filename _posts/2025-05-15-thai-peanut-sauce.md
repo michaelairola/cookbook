@@ -33,4 +33,4 @@ recipe:
     - |-
       Add the extra water a little at a time depending on whether you need this for a sauce, dip or a dressing to your desired consistency.
 ---
-Thai Peanut Sauce from [Jesica](https://jessicainthekitchen.com/thai-peanut-sauce-recipe/) 
+Thai Peanut Sauce from [Jessica In The Kitchen](https://jessicainthekitchen.com/thai-peanut-sauce-recipe/)
