@@ -12,8 +12,8 @@ disqus_shortname:
 logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
-  name:
-  email:
+  name: Michael Airola
+  email: me@michaelairola.com
   twitter: # twitter username without the @ symbol
 social:
   name: Mike's cookbook
