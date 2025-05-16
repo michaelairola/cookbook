@@ -3,7 +3,7 @@ date: 2025-05-07
 title: Shoyu Ramen
 categories:
   - Dinner
-# featured_image: /images/tri-tip.webp
+featured_image: /images/shoyu-ramen.jpg
 recipe:
   servings: 6
   prep: 2 hours overnight

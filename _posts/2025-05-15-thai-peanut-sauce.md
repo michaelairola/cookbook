@@ -3,28 +3,26 @@ date: 2025-05-15
 title: Thai Peanut Sauce
 categories:
   - Sauce
-featured_image: ""
+featured_image: /images/thai-peanut-sauce.webp
 recipe:
   servings: 3
   prep: 10 minutes
-  cook: 10 minutes
+  cook: 0 minutes
   parts:
     - name: Sauce
       ingredients:
-        - i: Peanut Butter (smooth)
-          q: 1/3 cups
         - i: Freshly minced ginger
-          q: 1/2 teaspoon
+          q: 1/2 tsp
         - i: Maple Syrup
-          q: 1 tblsp
+          q: 1 tbsp
         - i: Soy Sauce
-          q: 2 tblsp
+          q: 2 tbsp
         - i: rice wine vinegar
-          q: 1 teaspoon
+          q: 1 tsp
         - i: Hot water
           q: 1/4 Cup
-        - i: Crushed red pepper flakes (optional)
-          q: 1/4 teaspoon
+        - i: Peanut Butter (smooth)
+          q: 1/3 cups
   directions:
     - |-
       If your peanut butter is thick, microwave is for about 15 seconds first.
